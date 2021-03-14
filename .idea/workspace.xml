@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9fceee4-d911-4c51-8baf-b3846b8b3e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/app_router.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/city_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/city_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/loading_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/loading_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/location_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/location_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/location.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/location.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/networking.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/networking.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/weather.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/weather.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utilities/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utilities/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ce11171b9a47650d04]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1phw4I1ovc447qnXCF9rPcNoe7f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="{" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9fceee4-d911-4c51-8baf-b3846b8b3e5e" name="Default Changelist" comment="" />
+      <created>1615648436338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615648436338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="802" y="237" key="#xdebugger.evaluate" timestamp="1615732273482">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="802" y="237" key="#xdebugger.evaluate/0.32.1920.1048@0.32.1920.1048" timestamp="1615732273482" />
+    <state x="100" y="132" width="1720" height="848" key="AVDManager" timestamp="1615725886898">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="100" y="132" width="1720" height="848" key="AVDManager/0.32.1920.1048@0.32.1920.1048" timestamp="1615725886898" />
+    <state width="588" height="466" key="DebuggerActiveHint" timestamp="1615732092918">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="588" height="466" key="DebuggerActiveHint/0.32.1920.1048@0.32.1920.1048" timestamp="1615732092918" />
+    <state x="92" y="124" width="1736" height="864" key="DiffContextDialog" timestamp="1615726128142">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="92" y="124" width="1736" height="864" key="DiffContextDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1615726128142" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1615735644384">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1615735644384" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1615735644384">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1615735644384" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1615735644384">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1615735644384" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1615735644384">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1615735644384" />
+    <state x="725" y="258" key="RollbackChangesDialog" timestamp="1615728198218">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="725" y="258" key="RollbackChangesDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1615728198218" />
+    <state x="440" y="130" key="SettingsEditor" timestamp="1615648590535">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="440" y="130" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1615648590535" />
+    <state x="667" y="289" width="585" height="534" key="find.popup" timestamp="1615650281352">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="667" y="289" width="585" height="534" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1615650281352" />
+    <state x="616" y="258" key="run.anything.popup" timestamp="1615664607834">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="616" y="258" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1615664607834" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/loading_screen.dart</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/services/location.dart</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/location_screen.dart</url>
+          <line>68</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
