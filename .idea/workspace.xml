@@ -2,6 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9fceee4-d911-4c51-8baf-b3846b8b3e5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/reports/lint-results-release-fatal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/screens/location_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/location_screen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,22 +97,22 @@
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="92" y="124" width="1736" height="864" key="DiffContextDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1615726128142" />
-    <state width="1877" height="364" key="GridCell.Tab.0.bottom" timestamp="1615736954045">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1615738308797">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1877" height="364" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1615736954045" />
-    <state width="1877" height="364" key="GridCell.Tab.0.center" timestamp="1615736954044">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1615738308797" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1615738308796">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1877" height="364" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1615736954044" />
-    <state width="1877" height="364" key="GridCell.Tab.0.left" timestamp="1615736954044">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1615738308796" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1615738308796">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1877" height="364" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1615736954044" />
-    <state width="1877" height="364" key="GridCell.Tab.0.right" timestamp="1615736954045">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1615738308796" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1615738308796">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1877" height="364" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1615736954045" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1615738308796" />
     <state x="725" y="258" key="RollbackChangesDialog" timestamp="1615728198218">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
@@ -127,7 +145,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
           <url>file://$PROJECT_DIR$/lib/screens/location_screen.dart</url>
-          <line>70</line>
+          <line>71</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
@@ -137,7 +155,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
           <url>file://$PROJECT_DIR$/lib/screens/location_screen.dart</url>
-          <line>75</line>
+          <line>76</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>

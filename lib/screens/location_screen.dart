@@ -26,6 +26,7 @@ class _LocationScreenState extends State<LocationScreen> {
         temperature = 0;
         conditionIcon = 'Error';
         weatherMsg = 'No data for the provided city';
+        return;
       }
       var temp = data['main']['temp'];
       temperature = temp.toInt();
