@@ -21,16 +21,18 @@ class _LocationScreenState extends State<LocationScreen> {
   }
 
   void updateUI(dynamic data) {
-    if (data == null) {
-      temperature = 0;
-      conditionIcon = 'Error';
-      weatherMsg = 'No data for the provided city';
-    }
-    var temp = data['main']['temp'];
-    temperature = temp.toInt();
-    int condition = data['weather'][0]['id'];
-    conditionIcon = weatherModel.getWeatherIcon(condition);
-    weatherMsg = weatherModel.getMessage(temperature) + ' in ' + data['name'];
+    setState(() {
+      if (data == null) {
+        temperature = 0;
+        conditionIcon = 'Error';
+        weatherMsg = 'No data for the provided city';
+      }
+      var temp = data['main']['temp'];
+      temperature = temp.toInt();
+      int condition = data['weather'][0]['id'];
+      conditionIcon = weatherModel.getWeatherIcon(condition);
+      weatherMsg = weatherModel.getMessage(temperature) + ' in ' + data['name'];
+    });
   }
 
   @override

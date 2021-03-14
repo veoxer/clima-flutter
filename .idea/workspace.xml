@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9fceee4-d911-4c51-8baf-b3846b8b3e5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/app_router.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/city_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/city_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/loading_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/loading_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/screens/location_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/location_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/services/location.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/location.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/services/networking.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/networking.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/services/weather.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/weather.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utilities/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utilities/constants.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,30 +71,30 @@
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="100" y="132" width="1720" height="848" key="AVDManager/0.32.1920.1048@0.32.1920.1048" timestamp="1615725886898" />
-    <state width="588" height="466" key="DebuggerActiveHint" timestamp="1615732092918">
+    <state width="588" height="466" key="DebuggerActiveHint" timestamp="1615737121118">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="588" height="466" key="DebuggerActiveHint/0.32.1920.1048@0.32.1920.1048" timestamp="1615732092918" />
+    <state width="588" height="466" key="DebuggerActiveHint/0.32.1920.1048@0.32.1920.1048" timestamp="1615737121118" />
     <state x="92" y="124" width="1736" height="864" key="DiffContextDialog" timestamp="1615726128142">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="92" y="124" width="1736" height="864" key="DiffContextDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1615726128142" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1615735644384">
+    <state width="1877" height="364" key="GridCell.Tab.0.bottom" timestamp="1615736954045">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1615735644384" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1615735644384">
+    <state width="1877" height="364" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1615736954045" />
+    <state width="1877" height="364" key="GridCell.Tab.0.center" timestamp="1615736954044">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1615735644384" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1615735644384">
+    <state width="1877" height="364" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1615736954044" />
+    <state width="1877" height="364" key="GridCell.Tab.0.left" timestamp="1615736954044">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1615735644384" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1615735644384">
+    <state width="1877" height="364" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1615736954044" />
+    <state width="1877" height="364" key="GridCell.Tab.0.right" timestamp="1615736954045">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1615735644384" />
+    <state width="1877" height="364" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1615736954045" />
     <state x="725" y="258" key="RollbackChangesDialog" timestamp="1615728198218">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
@@ -139,8 +127,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
           <url>file://$PROJECT_DIR$/lib/screens/location_screen.dart</url>
-          <line>68</line>
+          <line>70</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/services/weather.dart</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/location_screen.dart</url>
+          <line>75</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
